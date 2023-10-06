@@ -126,9 +126,7 @@ FROM AppleStore
 group by language_bucket
 order by  Avg_Rating DESC
 ```
-<10	- 3.78
-10-30	- 4.12
->30	- 3.37
+<10-3.78, 10-30	- 4.12, >30-3.37
 
 Apps with more language options have better ratings
 
