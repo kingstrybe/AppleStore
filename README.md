@@ -111,6 +111,7 @@ SELECT CASE
 ```
 paid 3.72
 free 3.38
+
 Paid apps get slightly better reviews than free apps
 
 #### Then, Check if apps with more supporting languages have more ratings.
