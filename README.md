@@ -84,6 +84,7 @@ FROM AppleStore
 ```
 Min rating is 0 
 Max rating is 5
+
 #### Get the distribution of app prices
 
 ```
@@ -128,6 +129,7 @@ order by  Avg_Rating DESC
 <10	- 3.78
 10-30	- 4.12
 >30	- 3.37
+
 Apps with more language options have better ratings
 
 #### check genres with low ratingsAppleStore
